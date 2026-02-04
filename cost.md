@@ -29,15 +29,7 @@
 | Frontend | Vercel | Free tier | $0 |
 | CI/CD | GitHub Actions | Free tier (2000 min/month) | $0 |
 
-### Service URLs
 
-| Service | URL |
-|---------|-----|
-| API | https://ze2jcfipaa.us-east-1.awsapprunner.com |
-| Frontend | https://hypotext-v2.vercel.app |
-| Lambda Renderer | https://gzmpimnqakarjwo5342pgpt2ei0avpwk.lambda-url.us-east-1.on.aws |
-
----
 
 ## Pricing Tiers
 
